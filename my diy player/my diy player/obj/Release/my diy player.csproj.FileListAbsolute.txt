@@ -1,0 +1,13 @@
+C:\workspace\Csharp\my diy player\my diy player\bin\Release\my diy player.exe.config
+C:\workspace\Csharp\my diy player\my diy player\obj\Release\Interop.WMPLib.dll
+C:\workspace\Csharp\my diy player\my diy player\obj\Release\AxInterop.WMPLib.dll
+C:\workspace\Csharp\my diy player\my diy player\obj\Release\my diy player.csproj.ResolveComReference.cache
+C:\workspace\Csharp\my diy player\my diy player\bin\Release\my diy player.exe
+C:\workspace\Csharp\my diy player\my diy player\bin\Release\my diy player.pdb
+C:\workspace\Csharp\my diy player\my diy player\bin\Release\Interop.WMPLib.dll
+C:\workspace\Csharp\my diy player\my diy player\bin\Release\AxInterop.WMPLib.dll
+C:\workspace\Csharp\my diy player\my diy player\obj\Release\my_diy_player.Form1.resources
+C:\workspace\Csharp\my diy player\my diy player\obj\Release\my_diy_player.Properties.Resources.resources
+C:\workspace\Csharp\my diy player\my diy player\obj\Release\my diy player.csproj.GenerateResource.Cache
+C:\workspace\Csharp\my diy player\my diy player\obj\Release\my diy player.exe
+C:\workspace\Csharp\my diy player\my diy player\obj\Release\my diy player.pdb
